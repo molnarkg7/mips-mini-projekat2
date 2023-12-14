@@ -1,0 +1,2 @@
+# mips-mini-projekat2
+ 
